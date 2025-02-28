@@ -12,7 +12,11 @@ se<!DOCTYPE html>
 	    if (password === passwordCorretta) {
                 window.location.href = "test2.html"; // Reindirizza alla pagina successiva
 
-		 else {
+	    }
+	                
+             else if (password === passwordCorretta2) {
+                window.location.href = "test3.html"; // Reindirizza alla pagina successiva
+            }else {
                 alert("Password errata. Riprova.");
             }
         }
