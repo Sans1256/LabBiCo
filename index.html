@@ -7,10 +7,13 @@
     <script>
         function verificaPassword() {
             var password = document.getElementById("password").value;
-            var passwordCorretta = "password"; // Modifica questa stringa con la tua password
+            
 
-	    if (password === passwordCorretta) {
+	    if (password === "password") {
                 window.location.href = "test2.html"; // Reindirizza alla pagina successiva
+	    
+	    if (password === "123") {
+                window.location.href = "test3.html"; 
             }
 
 		 else {
