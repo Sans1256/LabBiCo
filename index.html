@@ -7,23 +7,22 @@
     <script>
         function verificaPassword() {
             var password = document.getElementById("password").value;
-            
+            var password1 = "password"
+            var password2 = "H3PO4+3NaOH=Na3PO4+3H2O"
+            var password1 = "MariaSkłodowskaCurie"
 
-	    if (password == "password") {
+		
+	    if (password == password1) {
                 window.location.href = "test2.html"; // Reindirizza alla pagina successiva
 	    }
-		 else {
-                alert("Password errata. Riprova.");
-            }
+
 		    
-	    if (password == "H3PO4+3NaOH=Na3PO4+3H2O") {
+	    if (password == password2) {
                 window.location.href = "test3.html"; 
             }
 
-		 else {
-                alert("Password errata. Riprova.");
-            }
-	    if (password == "MariaSkłodowskaCurie") {
+
+	    if (password == password3) {
                 window.location.href = "test4.html"; 
             }
 
