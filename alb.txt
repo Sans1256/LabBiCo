@@ -1,0 +1,22 @@
+Mittente: poliziapostale@comune.italia.it
+
+a: alberto.unapietra@nopox.it
+
+Data: 22/03/2025 h20.03
+
+Oggetto: Informazioni rilevanti dell'indice di affidabilità delle analisi
+
+
+Buonasera Dott. Unapietra,
+la contattiamo per informarla che secondo le nostre analisi riguardo ai dati da voi forniti,
+abbiamo dei dubbi rispetto ai dati raccolti dai campioni dell’H0-pp4 rispetto ad alcune analisi con la correlazione tra le differenti varianti da voi proposta.
+
+Troviamo altresì che i valori provenienti daI PCR classico siano meno attendibili rispetto a quelli degli altri valori, 
+ed anche la fluorescenza non ci ha fornito molti indici evidenti sebbene i dati ELISA e dell’RNA siano tra i più correlati, 
+suggeriamo sempre di intrecciarli con l’indice Ct-PCR. 
+Le combinazioni di ELISA-Ct e di RNA-Ct possono effettivamente risultare i fit ideali per l’identificazione del vostro studio.
+Vi ringraziamo per averci coinvolti ed aver richiesto il nostro parere. 
+La vostra scoperta porterà sicuramente un balzo in avanti nella lotta alle nuove epidemia.
+
+Con stima vi auguriamo un buon lavoro.
+Professor Dott. Marzulli, Università Epidemiologica di Pavia.
